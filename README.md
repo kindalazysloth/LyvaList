@@ -30,3 +30,6 @@ Open a new tab, and your new personal dashboard is ready to go!
 <img width="1280" height="800" alt="unnamed (1)" src="https://github.com/user-attachments/assets/1819af7f-419b-4cfc-a3a1-0b0286b3d26a" />
 <img width="1280" height="800" alt="unnamed" src="https://github.com/user-attachments/assets/aa8a5d2d-466d-440c-85df-10abccee465c" />
 
+
+Support if you love the work 
+https://ko-fi.com/lyvarien
