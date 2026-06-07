@@ -21,9 +21,14 @@ Lyvalist is a visual bookmark manager featuring drag-and-drop boards, cloud sync
 🛠️ How to Install
 Since Lyvalist is not yet on the Web Store, you can install it directly from this release in just a few seconds:
 1.Download the Release:Grab the zip file from the Assets section below.Scroll to the bottom of this page and download the 36MB Lyvalist.zip file.
+
 2.Extract the Files:Don't delete this folder later!.Unzip the downloaded file to a permanent location on your computer (like your Documents folder). Note: If you delete or move this folder later, Chrome will uninstall the extension.
+
 3.Open Chrome Extensions:Open Google Chrome, type chrome://extensions/ into your address bar, and hit Enter
+
 4.Enable Developer Mode:Required for custom extensions.Find the Developer mode toggle in the top-right corner of the Extensions page and turn it on.
+
 5.Load the Extension:Click the Load unpacked button that appears in the top-left corner. Select the extracted Lyvalist folder from Step 2.
+
 
 Open a new tab, and your new personal dashboard is ready to go!
