@@ -2,6 +2,13 @@
 Transform your browser's new tab into a beautiful, organized workspace. 
 
 Lyvalist is a visual bookmark manager featuring drag-and-drop boards, cloud sync, and lightning-fast saving. **Best of all? It includes all the premium features you'd normally pay for, completely free.**
+<img width="1280" height="800" alt="unnamed (4)" src="https://github.com/user-attachments/assets/49ff992c-d903-4cd0-b6b1-39a1f8aaf030" />
+<img width="1280" height="800" alt="unnamed (3)" src="https://github.com/user-attachments/assets/e7d05b38-fba1-411d-be6b-d0266f8c3596" />
+<img width="1280" height="800" alt="unnamed (2)" src="https://github.com/user-attachments/assets/98532c23-2814-47bb-81a8-f81acedc4095" />
+<img width="1280" height="800" alt="unnamed (1)" src="https://github.com/user-attachments/assets/1819af7f-419b-4cfc-a3a1-0b0286b3d26a" />
+<img width="1280" height="800" alt="unnamed" src="https://github.com/user-attachments/assets/aa8a5d2d-466d-440c-85df-10abccee465c" />
+
+
 
 ## ✨ Features
 
